@@ -11,7 +11,7 @@ The power of gRPC is that you can integrate easily with any supported language. 
 
 Want an even stronger challenge? Try building a client to interact with your chat using another gRPC language such as Go, Java, or Python and share with the group!
 
-Thanks for coming to NodeSchool and don't forget to register your attendance on the GitHub issue!
+Thanks for coming to CodesCoolDallas and don't forget to register your attendance on the GitHub issue!
 
 ***Links to gRPC Basics for various languages***
 
