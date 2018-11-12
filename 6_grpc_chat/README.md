@@ -19,4 +19,4 @@ node client.js
 
 Give each client a different name and type a few messages and hit enter. You will see your messages instanteously pop up on the other terminal window. Congrats! You've just built a gRPC powered chat. 
 
-Now what? Help a friend! Build a client using a completely different language like Java, Go, or Ruby. Also consider teaming up with some people around you by connecting multiple machines to the same server! (Note: This may require some firewall manipulation.)
+[Continue to 7. What Now?](../7_next_steps)

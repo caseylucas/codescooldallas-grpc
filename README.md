@@ -9,3 +9,4 @@ This is a Node and gRPC based Tutorial for the November 2018 CodesCoolDallas Mee
 # [4. A NodeJS gRPC Server](4_node_server/)
 # [5. A NodeJS gRPC Client](5_node_client/)
 # [6. Using gRPC to Live Chat](6_grpc_chat/)
+# [7. What Now?](7_next_steps)
