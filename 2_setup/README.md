@@ -48,8 +48,8 @@ To create a new project using npm, run `npm init` and accept all the defaults  b
 Run the following commands to install `grpc` and `@grpc/proto-loader` in your project. This will install the required files into a `node_modules` directory within the repo and save the dependencies to your `package.json`.
 
 ```
-npm install --save grpc
-npm install --save @grpc/proto-loader
+npm install grpc
+npm install @grpc/proto-loader
 ```
 
 If you peek into your updated `package.json` file, you'll see the dependencies.
