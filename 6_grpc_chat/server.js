@@ -19,8 +19,6 @@ let users = [];
 
 // receive message from client joining
 function join(call, callback) {
-  console.log(JSON.stringify(call));
-  console.log(JSON.stringify(call.request));
   users.push(call);
   notifyChat({
     user: "Server",
@@ -30,7 +28,6 @@ function join(call, callback) {
 
 // receive message from client
 function send(call, callback) {
-  console.log(JSON.stringify(call));
   notifyChat(call.request);
 }
 

@@ -1,0 +1,23 @@
+{
+  "name": "codescooldallas-grpc",
+  "version": "1.0.0",
+  "description": "CodesCoolDallas-gRPC Workshop =============================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwandrews7/codescooldallas-grpc.git"
+  },
+  "dependencies": {
+    "@grpc/proto-loader": "^0.3.0",
+    "grpc": "^1.16.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwandrews7/codescooldallas-grpc/issues"
+  },
+  "homepage": "https://github.com/kwandrews7/codescooldallas-grpc#readme"
+}
