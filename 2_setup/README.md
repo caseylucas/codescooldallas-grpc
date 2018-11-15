@@ -22,7 +22,8 @@ Note: Moving forward from this point, we are assuming you have both Node and NPM
 
 To create a new project using npm, run `npm init` and accept all the defaults  by pressing enter several times. This generates a `package.json` file like this.
 
-```{
+```
+{
   "name": "codescooldallas-grpc",
   "version": "1.0.0",
   "description": "CodesCoolDallas-gRPC Workshop =============================",
